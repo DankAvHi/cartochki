@@ -1,0 +1,16 @@
+.App {
+    min-height: 100svh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    padding: 12px;
+
+    max-width: 650px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

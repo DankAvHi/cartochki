@@ -1,0 +1,12 @@
+.GameWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading {
+    font-size: 32px;
+}
+.step {
+    font-size: 24px;
+}
